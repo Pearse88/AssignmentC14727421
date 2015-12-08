@@ -26,6 +26,7 @@ User Instructions
 When the sketch is first executed the user will be met by a title page from here they can navigate their way through each data visulization.  If the user select 1 they will be brought to a trend line graph that shows the average attendances since 1980.  If the user enters 2 they will be met by a picture of the Celtic F.C fans.  I have not yet coded in anymore visulizations as stated in Changes and Improvements above.
 
 EDITED
+</br>
 Since my last submission there have been some changes to the sketch. The user is still met with the same opening screen as seen in the screenshot below. 
 
 Opening screen
@@ -51,18 +52,22 @@ From here the user can scroll over each green circle and this will reveal how ma
 
 
 Changes
+</br>
 As stated above in my first submission I have made some changes although I did not stick to the changes first  outlined. I have however entered another visulization to my sketch.  The reason for the change, is because i felt that the previous visulization showed how the attendances have dropped in the last five years.
 The new visulization that is present on my sketch, is a breakdown of the fan base worldwide, the fanbase is broke down into continents.  You will see in the user instructions some screen shots of how the final sketch turned out.
 </br>
 
 Findings
+</br>
 Before undertaking this assignment, my understanding of the Celtic fc fanbase worldwide was in my opinion second to none, however to my surprise I found that my knowledge was not as good as I had thought.  To my surprise Celtic F.C were said to have an estimated 9 million fans worldwide and ranked in the top 20 of most surpported football teams in the world in 2012.  With over 160 supporters clubs in over 20 countries worldwide. 
 It is a well known fact that Celtic F.C fans are one of the best set of fans in the world.  And in 2003 for the UEFA cup final celtic fc fans set a record for the most fans to attend a final with over 80,0000 fans turning up to support.  
 
 Conclusion
+</br>
 In conclusion this assignment was very useful to me both as a computer science student and as a huge Celtic fan.  
 
 References
+</br>
 http://www.fitbastats.com/celtic/club_records_league_attendance.php</br>
 Visulizing Data, Ben Fry, December 2007</br>
 https://github.com/skooter500/DT228-OOP-2015
