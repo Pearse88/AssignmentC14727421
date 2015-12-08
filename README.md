@@ -10,8 +10,6 @@ The dataset I have based my assignment on, is one that is very close to me.  Hav
 The dataset that was decided upon was the average attendances at Celtic home games from a time period between 1980 and 2014.  The datasets in which I encountered for this particlar subject was very sparce and in fact I only found one website that contained such data.  The data can be found through this link(http://www.fitbastats.com/celtic/club_records_league_attendance.php).  The dataset only states the higest lowest and average attendances and not each attendance for every home match that was played in a given season.  My sketch allows the user to navigate from a title page to two other pages thus far.
 </br>
 
- 
-
 The Data Visulization graph which I choose to use for my dataset was a trend line graph. The graph is quite simple as it is, I do intend to expand on this trend graph to make it more visually appealing.  I also hope to add some user interaction by displaying the attendances of which the user will press the mouse upon. 
 </br> </br>
 
@@ -56,6 +54,13 @@ Changes
 As stated above in my first submission I have made some changes although I did not stick to the changes first  outlined. I have however entered another visulization to my sketch.  The reason for the change, is because i felt that the previous visulization showed how the attendances have dropped in the last five years.
 The new visulization that is present on my sketch, is a breakdown of the fan base worldwide, the fanbase is broke down into continents.  You will see in the user instructions some screen shots of how the final sketch turned out.
 </br>
+
+Findings
+Before undertaking this assignment, my understanding of the Celtic fc fanbase worldwide was in my opinion second to none, however to my surprise I found that my knowledge was not as good as I had thought.  To my surprise Celtic F.C were said to have an estimated 9 million fans worldwide and ranked in the top 20 of most surpported football teams in the world in 2012.  With over 160 supporters clubs in over 20 countries worldwide. 
+It is a well known fact that Celtic F.C fans are one of the best set of fans in the world.  And in 2003 for the UEFA cup final celtic fc fans set a record for the most fans to attend a final with over 80,0000 fans turning up to support.  
+
+Conclusion
+In conclusion this assignment was very useful to me both as a computer science student and as a huge Celtic fan.  
 
 References
 http://www.fitbastats.com/celtic/club_records_league_attendance.php</br>
