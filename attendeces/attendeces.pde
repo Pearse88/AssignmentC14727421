@@ -259,12 +259,7 @@ image(world,0,0);
  }
 }
 
-
-
-
-
-
-
+// key for case staetment
 void keyPressed()
 {
   if (key >= '0' && key <='2')
