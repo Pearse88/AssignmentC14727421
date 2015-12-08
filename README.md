@@ -64,7 +64,7 @@ It is a well known fact that Celtic F.C fans are one of the best set of fans in 
 
 Conclusion
 </br>
-In conclusion this assignment was very useful to me both as a computer science student and as a huge Celtic fan.  
+In conclusion this assignment was very useful to me both as a computer science student and as a huge Celtic fan. As a student I learned to make sure you research and think about the assignment before going gun hoe into coding, which unfortunately I did, and found it very hard to keep track of where I was. As a Celtic fan I found out a lot of new fun facts and figures about the club I have supported all my life.  And in a funny way they are both connected, I thought I knew everything about Celtic and I didn't think I needed to research or figure out what dataset to chose.  In the same way I thought I knew how to code the problem but turned that was also a lot more work than I first thought.
 
 References
 </br>
