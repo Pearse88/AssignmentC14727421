@@ -31,7 +31,8 @@ EDITED
 Since my last submission there have been some changes to the sketch. The user is still met with the same opening screen as seen in the screenshot below. 
 
 Opening screen
-
+</br>
+![Alt text](https://github.com/Pearse88/AssignmentC14727421/blob/master/attendeces/menu.png "Opening page")
 
 
 
@@ -39,6 +40,14 @@ As you can see above the sketch prompts the user to enter 1 or 2 if the user ent
 If the user enters 2, they will be met by the screen in fig(1,b).
 
 Fig(1,a)
+</br>
+![Alt text](https://github.com/Pearse88/AssignmentC14727421/blob/master/attendeces/attendances.png "Attendances")
+
+From here the user can chose to press 0 to go back to the home screen or press 2 to go to the next visuliation.  When the user presses 2 they will be met by the screen below.
+
+fig(1,b)
+</br>
+![Alt text](https://github.com/Pearse88/AssignmentC14727421/blob/master/attendeces/fanBase.png "Fanbase page")
 
 
 
