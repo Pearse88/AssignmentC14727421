@@ -28,7 +28,17 @@ User Instructions
 When the sketch is first executed the user will be met by a title page from here they can navigate their way through each data visulization.  If the user select 1 they will be brought to a trend line graph that shows the average attendances since 1980.  If the user enters 2 they will be met by a picture of the Celtic F.C fans.  I have not yet coded in anymore visulizations as stated in Changes and Improvements above.
 
 EDITED
-Since my last submission there have been some changes to the sketch. The user is still met with the same opening screen as senn in the screenshot below.
+Since my last submission there have been some changes to the sketch. The user is still met with the same opening screen as seen in the screenshot below. 
+
+Opening screen
+
+
+
+
+As you can see above the sketch prompts the user to enter 1 or 2 if the user enters 1, they will be met by the screen below in fig(1,a).
+If the user enters 2, they will be met by the screen in fig(1,b).
+
+Fig(1,a)
 
 
 
